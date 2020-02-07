@@ -10,7 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class AirbnbMongodbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AirbnbMongodbApplication.class, args);
+		SpringApplication.run(AirbnbMongodbApplication.class, args); //Test Second commit
 	}
 
 }
